@@ -84,3 +84,8 @@
     position: relative;
     top: 50px;
 }
+.mybtn:hover{
+    background-color: white;
+    transition: all.5s;
+    color: black;
+}
